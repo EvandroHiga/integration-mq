@@ -6,7 +6,7 @@ O objetivo desse projeto é apresentar um sistema que é uma poderosa ferramenta
 
 ### Topologia utilizada
 
-![Screenshot](docs/img-6.PNG)
+![Screenshot](docs/img-6.png)
 
 ### Configuração
 
