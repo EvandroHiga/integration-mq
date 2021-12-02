@@ -25,13 +25,13 @@ Responda Yes.
 
 - Para realizar o monitoramento com a aplicação aberta no navegador, clique no botão `Atualizar o clima` e será apresentado a mensagem de atualização do clima como abaixo.
 
-![Screenshot](screenshot.png)
+![Screenshot](docs/img-2.PNG)
 
 - Clique em `Receber dados dos drones` para que a lista de informações lhe seja mostrada. Em caso de discrepância de temperatura ou unidade, um e-mail lhe será enviado. 
 Obs: Para receber os e-mails, basta abrir a classe: `Constants` do pacote `Com.fiap.grp2.integrationmp.util` e alterar o valor da string `EMAIL_DESTINO` para o e-mail desejado. 
 
-![Screenshot](screenshot.png)
+![Screenshot](docs/img-3.PNG)
 
 O remetente grupo2.fiap é o responsável pelo disparo dos e-mails de notificação e este é o formato do e-mail que será recebido: 
 
-![Screenshot](screenshot.png)
+![Screenshot](docs/img-5.PNG)
