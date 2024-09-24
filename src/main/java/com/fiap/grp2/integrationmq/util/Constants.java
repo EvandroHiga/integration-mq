@@ -1,6 +1,16 @@
 package com.fiap.grp2.integrationmq.util;
 
 public class Constants {
+
+    /*
+    * https://www.devmedia.com.br/introducao-ao-amqp-com-rabbitmq/33036
+    * https://www.cloudamqp.com/blog/part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html?gad_source=1&gclid=EAIaIQobChMI1eKzz6fciAMVaFpIAB0clTWhEAAYASAAEgIwo_D_BwE
+    * exchanges e bindings
+    * "As exchanges distribuem as cópias das mensagens para filas utilizando regras que são chamadas de bindings"
+    * Direct Exchange, Default Exchange, Topic Exchange, Fanout Exchange, Headers Exchange, Dead Letter Exchange0
+    */
+
+
     public static final long SLEEP_TIME_MILLIS = 60000l;
 
     public static final float TEMPERATURA_MIN = 0f;
